@@ -1,5 +1,6 @@
 package main
 
 const one = 1
-const two = 22
-const three = 32
+const four = 1
+const three = 3
+const two = 3
