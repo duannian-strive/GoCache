@@ -6,5 +6,3 @@ const three = 322
 const two = 3221
 const fou = 4
 const you = 32
-const two2 = 23
-const fo = 434
